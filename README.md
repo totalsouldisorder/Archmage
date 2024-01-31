@@ -9,7 +9,7 @@ KISS, minimal bloat, sane default software.
 
 ## Features
 - Arch Linux base w/ Linux Zen kernel
-- Calamares graphical installer
+- Calamares installer w/ BTRFS & LUKS full disk encryption support
 - LightDM + riced Xfce w/ picom (muh blur)
 - Lavanda-Dark GTK theme & Colloid-purple-dark icons
 - Nvidia GPU drivers
