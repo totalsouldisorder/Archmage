@@ -2,7 +2,7 @@
 ## NetrunOS
 NetrunOS is a modern Linux distribution built for x86_64 desktop use. It started as an attempt at creating a custom Arch .iso for personal use, and I thought it to be something worth sharing. I'm sure I'm not the only Linux user who enjoys their privacy, and good aesthetics.
 
-![img](https://files.catbox.moe/59r0nl.png)
+![img](https://a.uguu.se/BSpqymgB.png)
 
 ## Philosophy
 KISS, minimal bloat, sane default software.
