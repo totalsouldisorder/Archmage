@@ -30,7 +30,9 @@ Simply write the latest NetrunOS-2024.x-x86_64.iso (see Releases) to a USB using
 NetrunOS is built using [archiso](https://wiki.archlinux.org/title/Archiso).
 
 ## To do
-- [x] Add Lavanda-Dark GTK theming to LightDM
+- [ ] Add Lavanda-Dark GTK theming to LightDM
+- [x] Switch to the Linux-zen kernel
 - [ ] Add NetrunOS branding to Calamares
 - [ ] Add NetrunOS theming to bootloaders
 - [ ] Fix the firewall-applet bug
+- [ ] Change default interface font to Terminus
