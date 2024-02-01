@@ -29,9 +29,9 @@ Simply write the latest NetrunOS-2024.x-x86_64.iso (see Releases) to a USB using
 NetrunOS is built using [archiso](https://wiki.archlinux.org/title/Archiso).
 
 ## To do
-- [ ] Add Lavanda-Dark GTK theming to LightDM
+- [x] Add Lavanda-Dark GTK theming to LightDM
 - [ ] Add NetrunOS branding to Calamares
 - [ ] Add NetrunOS theming to bootloaders
 - [ ] Fix the firewall-applet bug
 - [ ] Fine-tune the picom config
-- [ ] Populate /etc/skel/
+- [x] Populate /etc/skel/
