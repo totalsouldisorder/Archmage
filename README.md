@@ -11,10 +11,9 @@ Netrun means 'to interface with the net.' NetrunOS therefore means "an operating
 KISS, minimal bloat, sane default software.
 
 ## Features
-- Arch Linux base w/ Linux Zen kernel
+- Arch Linux base and under 2GB .iso size
 - Calamares installer w/ BTRFS & LUKS full disk encryption support
 - LightDM + riced Xfce w/ picom (muh blur)
-- Lavanda-Dark GTK theme & Colloid-purple-dark icons
 - Nvidia GPU drivers
 - Yay + Chaotic AUR mirrors
 - Firewalld + firewall-applet (like EndeavourOS)
@@ -24,17 +23,15 @@ KISS, minimal bloat, sane default software.
 - mpv and neofetch as well
 
 ## Installing
-Simply write the latest NetrunOS-2024.x-x86_64.iso (see Releases) to a USB using ```dd```.
+Simply write the latest NetrunOS-2024.x-x86_64.iso (see Releases) to a USB using ```dd```, boot into the system, and follow Calamares' instructions (it autostarts upon login).
 
 ## Building
 NetrunOS is built using [archiso](https://wiki.archlinux.org/title/Archiso).
 
 ## To do
 - [ ] Add Lavanda-Dark GTK theming to LightDM
-- [x] Switch to the Linux-zen kernel
 - [ ] Add NetrunOS branding to Calamares
 - [ ] Add NetrunOS theming to bootloaders
 - [ ] Fix the firewall-applet bug
-- [ ] Change default interface font to Terminus
 - [ ] Fine-tune the picom config
-- [ ] Populate default folders (docs, pics, etc) for liveuser
+- [ ] Populate /etc/skel/
