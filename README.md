@@ -24,7 +24,7 @@ KISS, minimal bloat, sane default software.
 - mpv and neofetch as well
 
 ## Installing
-Simply write the latest NetrunOS-2024.x-x86_64.iso (see Releases) to a USB using ```dd```.
+Simply write the latest NetrunOS-2024.x-x86_64.iso (see Releases) to a USB using ```dd```, boot into the system, and follow Calamares' instructions (it autostarts upon login).
 
 ## Building
 NetrunOS is built using [archiso](https://wiki.archlinux.org/title/Archiso).
