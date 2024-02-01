@@ -1,8 +1,11 @@
 ![img](https://files.catbox.moe/7y5gh8.png)
-## NetrunOS
-NetrunOS is a modern Linux distribution built for x86_64 desktop use. It started as an attempt at creating a custom Arch .iso for personal use, and I thought it to be something worth sharing. I'm sure I'm not the only Linux user who enjoys their privacy, and good aesthetics.
+
+NetrunOS is a modern Linux distribution built for x86_64 desktop use. It started as an attempt at creating a custom live Arch system for personal use, and I thought it to be something worth sharing. I'm sure I'm not the only Linux user who enjoys their privacy, and good aesthetics.
 
 ![img](https://a.uguu.se/nsVhkJah.png)
+
+## What's in a name?
+Netrun means 'to interface with the net.' NetrunOS therefore means "an operating system that allows you to interface with the net." I'm quite the wordsmith.
 
 ## Philosophy
 KISS, minimal bloat, sane default software.
@@ -21,12 +24,13 @@ KISS, minimal bloat, sane default software.
 - mpv and neofetch as well
 
 ## Installing
-Simply write the latest NetrunOS-2024.x-x86_64.iso (see Releases) to a USB using ```dd``` if on Linux, or ```Rufus``` if on Windows.
+Simply write the latest NetrunOS-2024.x-x86_64.iso (see Releases) to a USB using ```dd```.
 
 ## Building
-NetrunOS is built using [archiso](https://wiki.archlinux.org/title/Archiso). If you want to build the .iso yourself simply clone this repo and run the included NetrunOS-builder.sh script :)
+NetrunOS is built using [archiso](https://wiki.archlinux.org/title/Archiso).
 
 ## To do
-- [ ] Add Lavanda-Dark GTK theming to LightDM
+- [x] Add Lavanda-Dark GTK theming to LightDM
 - [ ] Add NetrunOS branding to Calamares
-- [ ] Add NetrunOS branding to bootloaders
+- [ ] Add NetrunOS theming to bootloaders
+- [ ] Fix the firewall-applet bug
