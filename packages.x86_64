@@ -36,7 +36,6 @@ gnu-netcat
 gpart
 gpm
 gptfdisk
-grml-zsh-config
 grub
 hdparm
 hyperv
@@ -50,10 +49,9 @@ less
 lftp
 libfido2
 libusb-compat
-linux-zen
+linux
 linux-atm
 linux-firmware
-linux-firmware-marvell
 livecd-sounds
 lsscsi
 lvm2
@@ -201,7 +199,7 @@ neofetch
 #virtualbox-guest-utils
 
 xf86-video-intel
-#xf86-video-amdgpu
+xf86-video-amdgpu
 #xf86-video-nouveau
 
 nvidia
