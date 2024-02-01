@@ -36,3 +36,5 @@ NetrunOS is built using [archiso](https://wiki.archlinux.org/title/Archiso).
 - [ ] Add NetrunOS theming to bootloaders
 - [ ] Fix the firewall-applet bug
 - [ ] Change default interface font to Terminus
+- [ ] Fine-tune the picom config
+- [ ] Populate default folders (docs, pics, etc) for liveuser
