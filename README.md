@@ -14,7 +14,6 @@ KISS, minimal bloat, sane default software.
 - Arch Linux base and under 2GB .iso size
 - Calamares installer w/ BTRFS & LUKS full disk encryption support
 - LightDM + riced Xfce w/ picom (muh blur)
-- Lavanda-Dark GTK theme & Colloid-purple-dark icons
 - Nvidia GPU drivers
 - Yay + Chaotic AUR mirrors
 - Firewalld + firewall-applet (like EndeavourOS)
