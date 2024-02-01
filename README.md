@@ -22,3 +22,11 @@ KISS, minimal bloat, sane default software.
 
 ## Installing
 Simply write the latest NetrunOS-2024.x-x86_64.iso (see Releases) to a USB using ```dd``` if on Linux, or ```Rufus``` if on Windows.
+
+## Building
+NetrunOS is built using [archiso](https://wiki.archlinux.org/title/Archiso). If you want to build the .iso yourself simply clone this repo and run the included NetrunOS-builder.sh script :)
+
+## To do
+- [ ] Add Lavanda-Dark GTK theming to LightDM
+- [ ] Add NetrunOS branding to Calamares
+- [ ] Add NetrunOS branding to bootloaders
