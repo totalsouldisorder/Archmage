@@ -53,6 +53,7 @@ libusb-compat
 linux-zen
 linux-atm
 linux-firmware
+linux-firmware-marvell
 livecd-sounds
 lsscsi
 lvm2
@@ -199,11 +200,12 @@ neofetch
 #to have fullscreen
 #virtualbox-guest-utils
 
-#xf86-video-intel
+xf86-video-intel
 #xf86-video-amdgpu
 #xf86-video-nouveau
 
 nvidia
+nvidia-dkms
 nvidia-settings
 nvidia-utils
 
