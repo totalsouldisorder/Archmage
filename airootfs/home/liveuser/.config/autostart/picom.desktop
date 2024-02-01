@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Picom
+Name[en_US]=Picom
+Comment[en_US]=Picom
+Icon=none
+Categories=System;Settings;
+Exec=/usr/bin/picom
+Type=Application
+StartupNotify=true
+Terminal=false
+Hidden=true
