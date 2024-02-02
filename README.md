@@ -37,3 +37,4 @@ NetrunOS is built using [archiso](https://wiki.archlinux.org/title/Archiso).
 - [x] Populate /etc/skel/
 - [ ] Add padding to alacritty
 - [ ] Forgot to add ohmyz.sh config to /etc/skel/
+- [ ] Add pulseaudio lmao
