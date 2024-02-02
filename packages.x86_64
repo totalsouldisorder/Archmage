@@ -174,6 +174,9 @@ mpv
 picom
 python-pyqt5
 neovim
+i3-wm
+alacritty
+feh
 
 ##### you can also use nmtui from the terminal
 networkmanager

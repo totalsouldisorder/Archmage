@@ -1,0 +1,31 @@
+[Desktop Entry]
+Version=1.0
+Name=LibreWolf
+Comment=Browse the World Wide Web
+GenericName=Web Browser
+Keywords=Internet;WWW;Browser;Web;Explorer
+Exec=/usr/lib/librewolf/librewolf %u
+Icon=librewolf
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+MimeType=text/html;text/xml;application/xhtml+xml;x-scheme-handler/http;x-scheme-handler/https;application/x-xpinstall;application/pdf;application/json;
+StartupNotify=true
+StartupWMClass=LibreWolf
+Categories=Network;WebBrowser;
+Actions=new-window;new-private-window;profile-manager-window;
+X-XFCE-Source=file:///usr/share/applications/librewolf.desktop
+
+[Desktop Action new-window]
+Name=Open a New Window
+Name[en_US]=New Window
+Exec=/usr/lib/librewolf/librewolf --new-window %u
+
+[Desktop Action new-private-window]
+Name=Open a New Private Window
+Name[en_US]=New Private Window
+Exec=/usr/lib/librewolf/librewolf --private-window %u
+
+[Desktop Action profile-manager-window]
+Name=Open the Profile Manager
+Exec=/usr/lib/librewolf/librewolf --ProfileManager %u

@@ -1,0 +1,13 @@
+app=ristretto
+custom_action_command=none
+last_user=
+last_extension=png
+enable_imgur_upload=true
+show_in_folder=false
+screenshot_dir=file:///home/_0x69
+action=2
+delay=2
+region=3
+show_mouse=1
+show_border=1
+

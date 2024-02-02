@@ -1,0 +1,3 @@
+rm /usr/share/xsessions/i3.desktop
+rm /usr/share/xsessions/i3-with-shmlog.desktop
+rm /usr/share/xsessions/xfce.desktop
