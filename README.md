@@ -1,4 +1,4 @@
-![netrunos-purpp](https://github.com/averyfunnygirl/NetrunOS/assets/116482803/81d87f96-992f-46f9-8568-f6149f2ab4f4)
+![netrunfinal](https://github.com/averyfunnygirl/NetrunOS/assets/116482803/425dff14-fa26-476a-9ced-4efaa6c58592)
 
 ## A privacy-conscious, aesthetically pleasing Arch Linux distribution
 
