@@ -38,7 +38,7 @@ To build a NetrunOS .iso yourself, clone this repo, and run ```sudo mkarchiso -v
 - [ ] Fix the firewall-applet bug
 - [ ] Fine-tune the picom config
 - [x] Populate /etc/skel/
-- [ ] Add padding to alacritty
-- [ ] Forgot to add ohmyz.sh config to /etc/skel/
-- [ ] Add pulseaudio lmao
-- [ ] Forgot to put NvChad config in /etc/skell/
+- [x] Add padding to alacritty
+- [x] Forgot to add ohmyz.sh config to /etc/skel/
+- [x] Add pulseaudio lmao
+- [x] Forgot to put NvChad config in /etc/skell/
