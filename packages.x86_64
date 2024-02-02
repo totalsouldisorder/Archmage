@@ -177,6 +177,7 @@ neovim
 i3-wm
 alacritty
 feh
+pulseaudio
 
 ##### you can also use nmtui from the terminal
 networkmanager

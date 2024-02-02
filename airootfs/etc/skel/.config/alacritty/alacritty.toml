@@ -1,5 +1,6 @@
 [window]
 opacity = 0.6
+padding = { x = 10, y = 10 }
 
 [font]
 size = 12.0
