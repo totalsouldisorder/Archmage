@@ -1,4 +1,6 @@
-![netrunos-purpp](https://github.com/averyfunnygirl/NetrunOS/assets/116482803/81d87f96-992f-46f9-8568-f6149f2ab4f4)
+![netrun-finalquestionmark](https://github.com/averyfunnygirl/NetrunOS/assets/116482803/f7c410ec-1aba-4903-99c8-c97b8625d8c2)
+
+## A privacy-conscious, aesthetically pleasing Arch Linux distribution
 
 NetrunOS is a modern Linux distribution built for x86_64 desktop use. It started as an attempt at creating a custom live Arch system for personal use, and I thought it to be something worth sharing. I'm sure I'm not the only Linux user who enjoys their privacy, and good aesthetics.
 
@@ -27,6 +29,7 @@ Simply write the latest NetrunOS-2024.x-x86_64.iso (see Releases) to a USB using
 
 ## Building
 NetrunOS is built using [archiso](https://wiki.archlinux.org/title/Archiso).
+To build a NetrunOS .iso yourself, clone this repo, and run ```sudo mkarchiso -v -o /home/$USER/ NetrunOS/``` (make sure you have archiso installed first).
 
 ## To do
 - [x] Add Lavanda-Dark GTK theming to LightDM
@@ -37,3 +40,5 @@ NetrunOS is built using [archiso](https://wiki.archlinux.org/title/Archiso).
 - [x] Populate /etc/skel/
 - [ ] Add padding to alacritty
 - [ ] Forgot to add ohmyz.sh config to /etc/skel/
+- [ ] Add pulseaudio lmao
+- [ ] Forgot to put NvChad config in /etc/skell/
