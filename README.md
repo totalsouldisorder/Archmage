@@ -1,4 +1,4 @@
-![netrunfinal](https://github.com/averyfunnygirl/NetrunOS/assets/116482803/425dff14-fa26-476a-9ced-4efaa6c58592)
+![netrun-finalquestionmark](https://github.com/averyfunnygirl/NetrunOS/assets/116482803/f7c410ec-1aba-4903-99c8-c97b8625d8c2)
 
 ## A privacy-conscious, aesthetically pleasing Arch Linux distribution
 
