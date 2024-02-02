@@ -1,4 +1,4 @@
-![img](https://files.catbox.moe/7y5gh8.png)
+![netrunos-purpp](https://github.com/averyfunnygirl/NetrunOS/assets/116482803/81d87f96-992f-46f9-8568-f6149f2ab4f4)
 
 NetrunOS is a modern Linux distribution built for x86_64 desktop use. It started as an attempt at creating a custom live Arch system for personal use, and I thought it to be something worth sharing. I'm sure I'm not the only Linux user who enjoys their privacy, and good aesthetics.
 
