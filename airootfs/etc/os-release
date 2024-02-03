@@ -1,6 +1,6 @@
-NAME="NetrunOS"
-PRETTY_NAME="NetrunOS"
-ID="netrunos"
+NAME="Archmage"
+PRETTY_NAME="Archmage"
+ID="archmage"
 ID_LIKE="arch"
 BUILD_ID=rolling
 ANSI_COLOR="20;56;128;200;28"

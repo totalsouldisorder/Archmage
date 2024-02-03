@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="NetrunOS"
-iso_label="NetrunOS_$(date +%Y%m)"
-iso_publisher="NetrunOS"
-iso_application="NetrunOS Live/Rescue CD"
+iso_name="Archmage"
+iso_label="Archmage_$(date +%Y%m)"
+iso_publisher="Archmage"
+iso_application="Archmage Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
 install_dir="arch"
 buildmodes=('iso')
