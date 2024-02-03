@@ -1,4 +1,4 @@
-![archmage-logo](https://github.com/averyfunnygirl/Archmage/assets/116482803/833cab9a-c10b-4c57-9c1d-5da269d26df4)
+![archmage](https://github.com/averyfunnygirl/Archmage/assets/116482803/1abbf9b5-9b78-4ecb-bd6c-08178bf5d8a5)
 
 ## A privacy-conscious, aesthetically pleasing Arch Linux distribution
 
