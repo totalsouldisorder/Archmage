@@ -1,4 +1,4 @@
-![archmage](https://github.com/averyfunnygirl/NetrunOS/assets/116482803/7b672604-3bfd-4ab2-9025-b70856d591de)
+![archmage-logo](https://github.com/averyfunnygirl/Archmage/assets/116482803/833cab9a-c10b-4c57-9c1d-5da269d26df4)
 
 ## A privacy-conscious, aesthetically pleasing Arch Linux distribution
 
