@@ -4,7 +4,7 @@
 
 NetrunOS is a modern Linux distribution built for x86_64 desktop use. It started as an attempt at creating a custom live Arch system for personal use, and I thought it to be something worth sharing. I'm sure I'm not the only Linux user who enjoys their privacy, and good aesthetics.
 
-![img](https://files.catbox.moe/5rjofs.png)
+![netrunnnnn](https://github.com/averyfunnygirl/NetrunOS/assets/116482803/3ee3d767-eb55-48a6-9eba-736ff841ca76)
 
 ## What's in a name?
 Netrun means 'to interface with the net.' NetrunOS therefore means "an operating system that allows you to interface with the net." I'm quite the wordsmith.
