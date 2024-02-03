@@ -1,5 +1,8 @@
 ![archmage-logo](https://github.com/averyfunnygirl/Archmage/assets/116482803/028454e5-948e-4d4b-b50d-a1c146449071)
 
+[![GitHub release](https://img.shields.io/github/release/averyfunnygirl/archmage?include_prereleases=&sort=semver&color=blue)](https://github.com/averyfunnygirl/archmage/releases/) 
+[![issues - archmage](https://img.shields.io/github/issues/averyfunnygirl/archmage)](https://github.com/averyfunnygirl/archmage/issues) [![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](/docs/ "Go to project documentation")
+
 ## A privacy-conscious, aesthetically pleasing Arch Linux distribution
 
 Archmage, previously NetrunOS, is a modern Linux distribution built for x86_64 desktop use. It started as an attempt at creating a custom live Arch system for personal use, and I thought it to be something worth sharing. I'm sure I'm not the only Linux user who enjoys their privacy, and good aesthetics.
