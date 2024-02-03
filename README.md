@@ -39,4 +39,4 @@ To build an archmage .iso yourself, clone this repo, and run ```sudo mkarchiso -
 - [x] Forgot to add ohmyz.sh config to /etc/skel/
 - [x] Add pulseaudio lmao
 - [x] Forgot to put NvChad config in /etc/skell/
-- [ ] Rebrand to archmage lol
+- [x] Rebrand to archmage lol
