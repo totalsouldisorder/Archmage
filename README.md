@@ -1,13 +1,10 @@
-![netrun-finalquestionmark](https://github.com/averyfunnygirl/NetrunOS/assets/116482803/f7c410ec-1aba-4903-99c8-c97b8625d8c2)
+![archmage](https://github.com/averyfunnygirl/NetrunOS/assets/116482803/7b672604-3bfd-4ab2-9025-b70856d591de)
 
 ## A privacy-conscious, aesthetically pleasing Arch Linux distribution
 
-NetrunOS is a modern Linux distribution built for x86_64 desktop use. It started as an attempt at creating a custom live Arch system for personal use, and I thought it to be something worth sharing. I'm sure I'm not the only Linux user who enjoys their privacy, and good aesthetics.
+Archmage, previously NetrunOS, is a modern Linux distribution built for x86_64 desktop use. It started as an attempt at creating a custom live Arch system for personal use, and I thought it to be something worth sharing. I'm sure I'm not the only Linux user who enjoys their privacy, and good aesthetics.
 
-![netrunnnnn](https://github.com/averyfunnygirl/NetrunOS/assets/116482803/3ee3d767-eb55-48a6-9eba-736ff841ca76)
-
-## What's in a name?
-Netrun means 'to interface with the net.' NetrunOS therefore means "an operating system that allows you to interface with the net." I'm quite the wordsmith.
+![nice](https://github.com/averyfunnygirl/NetrunOS/assets/116482803/7de7a7be-8b56-47bf-be4f-992cee3698db)
 
 ## Philosophy
 KISS, minimal bloat, sane default software.
@@ -25,11 +22,11 @@ KISS, minimal bloat, sane default software.
 - mpv and neofetch as well
 
 ## Installing
-Simply write the latest NetrunOS-2024.x-x86_64.iso (see Releases) to a USB using ```dd```, boot into the system, and follow Calamares' instructions (it autostarts upon login).
+Simply write the latest archmage-2024.x-x86_64.iso (see Releases) to a USB using ```dd```, boot into the system, and follow Calamares' instructions (it autostarts upon login).
 
 ## Building
-NetrunOS is built using [archiso](https://wiki.archlinux.org/title/Archiso).
-To build a NetrunOS .iso yourself, clone this repo, and run ```sudo mkarchiso -v -o /home/$USER/ NetrunOS/``` (make sure you have archiso installed first).
+Archmage is built using [archiso](https://wiki.archlinux.org/title/Archiso).
+To build an archmage .iso yourself, clone this repo, and run ```sudo mkarchiso -v -o /home/$USER/ Archmage/``` (make sure you have archiso installed first).
 
 ## To do
 - [x] Add Lavanda-Dark GTK theming to LightDM
@@ -42,3 +39,4 @@ To build a NetrunOS .iso yourself, clone this repo, and run ```sudo mkarchiso -v
 - [x] Forgot to add ohmyz.sh config to /etc/skel/
 - [x] Add pulseaudio lmao
 - [x] Forgot to put NvChad config in /etc/skell/
+- [ ] Rebrand to archmage lol
