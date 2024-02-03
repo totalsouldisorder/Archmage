@@ -3,37 +3,57 @@
 [![GitHub release](https://img.shields.io/github/release/averyfunnygirl/archmage?include_prereleases=&sort=semver&color=blue)](https://github.com/averyfunnygirl/archmage/releases/) 
 [![issues - archmage](https://img.shields.io/github/issues/averyfunnygirl/archmage)](https://github.com/averyfunnygirl/archmage/issues) 
 
-[![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](/docs/ "Go to project documentation")
+# Introduction to Archmage
+Archmage is a privacy-conscious, functional, and aesthetically pleasing Arch Linux distribution. It aims to have a minimal footprint on system resources (under 2GB .iso size and under 1GB RAM usage) while supporting newer hardware (ships with Nvidia drivers). Upon first boot, you'll see there is a custom desktop. I call it "x3" because it's just i3wm and xfce4-panel, and picom for blur and stuff.
 
-## A privacy-conscious, aesthetically pleasing Arch Linux distribution
+# Motivations for development
+I've been using Linux for 10+ years and have toyed around with making *buntu-based distributions, but I have never attempted an Arch distro. This is a learning experience for me, and I enjoy myself working on this. Those are my reasons behind developing this. I'm sharing it because that's the whole point of open source :)
 
-Archmage, previously NetrunOS, is a modern Linux distribution built for x86_64 desktop use. It started as an attempt at creating a custom live Arch system for personal use, and I thought it to be something worth sharing. I'm sure I'm not the only Linux user who enjoys their privacy, and good aesthetics.
+# How is this different from other Arch distributions
+Currently, Archmage is based off of the ALCI dev image, which is vanilla Arch + Calamares, along with some extra packages for aesthetics and functionality. The changes I've made to Archmage beyond package selection include:
 
-## Philosophy
-KISS, minimal bloat, sane default software.
+- modifying profile_def.sh used by archiso
+- modifying /etc/os-release
+- modifying the live environment's bootloader entries
+- adding Chaotic AUR mirrors
+- modifying the xfce4-panel layout
+- i3 configuration changes for functionality
+- picom and firewall-applet autostart with xfce4-panel
+- lightdm modifications for functionality and aesthetics
+- picom configuration changes for aesthetics
+- zsh is the live environment's default shell
+- ohmyz.sh config for zsh (persists upon install)
+- inclusion of one (1) wallpaper made by yours truly per release
 
-## Features
-- Arch Linux base and under 2GB .iso size
-- Calamares installer w/ BTRFS & LUKS full disk encryption support
-- New x3 desktop (i3wm + xfce4-panel)
-- Nvidia GPU drivers
-- Yay + Chaotic AUR mirrors
-- Firewalld + firewall-applet (like EndeavourOS)
-- LibreWolf + Ublock Origin
-- Zsh + Ohmyz.sh preconfigured
-- Neovim + NvChad
-- mpv and neofetch as well
+# Notable package selections
 
-## Installing
-Simply write the latest archmage-2024.x-x86_64.iso (see Releases) to a USB using ```dd```, boot into the system, and follow Calamares' instructions (it autostarts upon login).
+|package|reasoning|
+|---|---|
+|i3wm   |Because i3 is the best. May change to SwayFX in the near future.  |
+|LightDM|Best display manager. Uses the GTK greeter for now, may change to Slick.|
+|Alacritty   |It's a great, configurable terminal.   |
+|xfce4-panel   |Along with whiskermenu, it provides a more accessible desktop experience compared to using polybar. |
+|zsh   |It's my preferred shell when paired with [Ohmyz.sh](https://ohmyz.sh) configs.|
+|picom   |To provide the window animations/transparency/blur. SwayFX would replace this as well.|
+|mpv|The best video player around.|
+|neofetch|No reasoning necessary.|
+|LibreWolf|[Here's why.](https://privacytests.org) Also it comes with Ublock Origin.|
+|thunar|For graphical file management (lol)|
+|firewalld + firewall-applet|For firewall! Just like EndeavourOS :)|
+|Nvidia drivers|To support newer Nvidia graphics hardware|
 
-## Building
-Archmage is built using [archiso](https://wiki.archlinux.org/title/Archiso).
-To build an archmage .iso yourself, clone this repo, and run ```sudo mkarchiso -v -o /home/$USER/ Archmage/``` (make sure you have archiso installed first).
+# Roadmap
+I've achieved quite a bit in about a week. What I want to do next is:
 
-## To do
-- [x] Add Lavanda-Dark GTK theming to LightDM
-- [x] Add audio support with pulseaudio lol
-- [ ] Add theming to Calamares
-- [ ] Fix the firewall-applet bug
-- [ ] Fine-tune the picom config
+- de-bloat and remove unnecessary packages
+- fix firewalld.service not autostarting until ```systemctl enable firewalld``` is run
+- change the default shell upon installation to zsh (currently bash)
+- consider a different panel, as well as shipping SwayFX instead of i3 (for wayland reasons)
+
+# Building or installing
+If you just wanna try Archmage out, head over to [Releases](https://github.com/averyfunnygirl/Archmage/releases) and burn the .iso to a flash drive. Boot it up and follow Calamares' instructions to install, or just mess around in the live environment. 
+
+If you want to build Archmage, first clone this repo, install [archiso](https://wiki.archlinux.org/title/archiso), and in the parent folder to Archmage run ```sudo mkarchiso -v -o /home/$USER/ Archmage/```. It will, after some time, spit out a fresh Archmage .iso :)
+
+# Acknowledgements
+Shoutout to [ALCI](https://alci.online/) for Calamares! Their dev image is what Archmage was originally based off of.
