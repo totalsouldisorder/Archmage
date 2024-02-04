@@ -6,6 +6,8 @@
 # Introduction to Archmage
 Archmage is a privacy-conscious, functional, and aesthetically pleasing Arch Linux distribution. It aims to have a minimal footprint on system resources (under 2GB .iso size and under 1GB RAM usage) while supporting newer hardware (ships with Nvidia drivers). Upon booting, you will be greeted with SDDM. The username is 'liveuser' and there is no password. It loads a custom i3wm config.
 
+![2024-02-04-033110_3840x1080_scrot](https://github.com/averyfunnygirl/Archmage/assets/116482803/beddfd92-b9aa-4ced-b0a0-499f08c54197)
+
 # Motivations for development
 I've been using Linux for 10+ years and have toyed around with making *buntu-based distributions, but I have never attempted an Arch distro. This is a learning experience for me, and I enjoy myself working on this. Those are my reasons behind developing this. I'm sharing it because that's the whole point of open source :)
 
