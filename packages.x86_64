@@ -156,8 +156,8 @@ xterm
 ###      PACKAGES THAT STAY AFTER INSTALLATION      ###
 #######################################################
 
-lightdm
-lightdm-gtk-greeter
+#lightdm
+#lightdm-gtk-greeter
 bash-completion
 os-prober
 dex
@@ -175,9 +175,16 @@ picom
 python-pyqt5
 neovim
 i3-wm
+i3status
 alacritty
 feh
 pulseaudio
+rofi
+thunar
+ttf-icomoon-feather
+qt5-graphicaleffects
+qt5-svg
+qt5-quickcontrols2
 
 ##### you can also use nmtui from the terminal
 networkmanager
@@ -217,6 +224,7 @@ nvidia-utils
 
 #lightdm
 #lightdm-gtk-greeter
+sddm
 
 ##### sddm display manager
 
@@ -242,9 +250,9 @@ linux-headers
 ##### want to have a desktop
 
 #test
-xfce4
-xfce4-goodies
-neofetch
+#xfce4
+#xfce4-goodies
+#neofetch
 
 
 ##### want to add/use the ArcoLinux repos
@@ -286,3 +294,6 @@ git
 
 #grub theme
 #alci-grub-theme-git
+
+archiso
+catppuccin-mocha-grub-theme-git
