@@ -35,7 +35,7 @@ Currently, Archmage is based off of the ALCI dev image, which is vanilla Arch + 
 |Alacritty   |It's a great, configurable terminal.   |
 |rofi   |App launcher with custom catppuccin theming.|
 |zsh   |It's my preferred shell when paired with [Ohmyz.sh](https://ohmyz.sh) configs.|
-|picom   |To provide the window animations/transparency/blur. SwayFX would replace this as well.|
+|picom   |To provide the window animations/transparency/blur.|
 |mpv|The best video player around.|
 |neofetch|No reasoning necessary.|
 |LibreWolf|[Here's why.](https://privacytests.org) Also it comes with Ublock Origin.|
