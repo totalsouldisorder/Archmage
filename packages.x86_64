@@ -186,7 +186,8 @@ ttf-icomoon-feather
 qt5-graphicaleffects
 qt5-svg
 qt5-quickcontrols2
-keepassxc
+#keepassxc
+i3lock-fancy
 
 ##### you can also use nmtui from the terminal
 networkmanager

@@ -11,7 +11,7 @@ font pango:Terminus 12
 
 exec --no-startup-id dex --autostart --environment i3
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
-exec --no-startup-id feh --bg-scale /usr/share/backgrounds/xfce/archmage.png
+exec --no-startup-id feh --bg-scale ~/.config/wallpapers/archmage.png
 exec --no-startup-id nm-applet
 exec --no-startup-id picom
 
@@ -19,8 +19,9 @@ floating_modifier $mod
 tiling_drag modifier titlebar
 
 bindsym $mod+Return exec alacritty
-bindsym $mod++q kill
+bindsym $mod+q kill
 bindsym $mod+d exec --no-startup-id rofi -no-config -no-lazy-grab -show drun -modi drun -theme ~/.config/rofi/archmage/launcher.rasi
+bindsym $mod+z exec --no-startup-id i3lock-fancy
 
 # change focus
 bindsym $mod+j focus left
