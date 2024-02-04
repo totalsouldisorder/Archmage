@@ -25,6 +25,7 @@ Currently, Archmage is based off of the ALCI dev image, which is vanilla Arch + 
 - zsh is the live environment's default shell
 - ohmyz.sh config for zsh (persists upon install)
 - custom alacritty config
+- custom qutebrowser config
 
 # Notable package selections
 
@@ -38,7 +39,7 @@ Currently, Archmage is based off of the ALCI dev image, which is vanilla Arch + 
 |picom   |To provide the window animations/transparency/blur.|
 |mpv|The best video player around.|
 |neofetch|No reasoning necessary.|
-|LibreWolf|[Here's why.](https://privacytests.org) Also it comes with Ublock Origin.|
+|qutebrowser|Wonderful browser, pre-configured with vertical tabs and catppuccin.|
 |thunar|For graphical file management (lol)|
 |firewalld + firewall-applet|For firewall! Just like EndeavourOS :)|
 |Nvidia drivers|To support newer Nvidia graphics hardware|
