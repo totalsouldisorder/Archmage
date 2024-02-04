@@ -168,7 +168,8 @@ xterm
 xorg-xrdb
 mkinitcpio-openswap
 yay
-librewolf
+#librewolf
+qutebrowser
 firewalld
 mpv
 picom
@@ -185,6 +186,7 @@ ttf-icomoon-feather
 qt5-graphicaleffects
 qt5-svg
 qt5-quickcontrols2
+keepassxc
 
 ##### you can also use nmtui from the terminal
 networkmanager

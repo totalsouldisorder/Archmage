@@ -1,0 +1,320 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   airootfs/etc/skel/.config/Thunar/uca.xml
+#	modified:   airootfs/etc/skel/.config/dconf/user
+#	modified:   airootfs/etc/skel/.config/i3/config
+#	new file:   airootfs/etc/skel/.config/inkscape/cphistory.xml
+#	new file:   airootfs/etc/skel/.config/inkscape/dialogs-state-ex.ini
+#	new file:   airootfs/etc/skel/.config/inkscape/extension-errors.log
+#	new file:   airootfs/etc/skel/.config/inkscape/fontcollections/recently_used_fonts.log
+#	new file:   airootfs/etc/skel/.config/inkscape/pages.csv
+#	new file:   airootfs/etc/skel/.config/inkscape/preferences.xml
+#	new file:   airootfs/etc/skel/.config/keepassxc/keepassxc.ini
+#	new file:   airootfs/etc/skel/.config/mimeapps.list
+#	new file:   airootfs/etc/skel/.config/obsidian/22cb0842e2fd9823.json
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/08c7e71b74e10a43_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/0d19645b1df2fe73_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/0ee3c162388bed23_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/136324648e0083ce_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/1434f2ab7898e077_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/17adea316f510242_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/1ae0bb07f7db55bf_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/1b86af76a93b1902_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/1c9fc6edceafc664_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/1d4066b8276b4318_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/1e04b736fd7d2e0a_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/1f2e1166f3f60589_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/235293b10f645efc_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/235d66c14555cecf_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/2547ff6af7f86f60_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/2720f6f3a69d0845_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/27e1ba8b1686a43d_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/2a0d2f1f21f28d80_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/2a7addaae1160077_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/2b8def943af7e025_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/2d1a80b7bba5e12d_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/2fb2ee10c71822bc_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/3076cc8320f1e88a_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/331969e994ee0415_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/34fe7a0ca25bc716_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/3a6691e95f804110_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/3b39c72f86207050_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/3cf84ab1c89674cd_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/3fe1b4a9c3f12dfb_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/4fedffca2c335e00_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/506f8ac34d4019a0_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/5283edf90cf4ab50_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/535e9e3fa5364167_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/55a2bb58de324cb0_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/56bdcd269daaf47c_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/571c0c432619023d_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/57e197da6af7b050_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/59c61e7734419b36_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/5b9cfd1ebd6380b9_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/62a4cdb9b4a6408f_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/6f5857a9cc8282e5_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/7425cc9628c5d524_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/74dae2adc7da39f9_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/75632a4549dd28b2_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/79f313eaa9635851_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/7c9d3ee537fa9940_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/81e27f6432ea551b_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/848d0df9e68d6987_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/85cf02a7341577f9_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/9050003ebd6f4c7c_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/9536a4708a20f9d3_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/969eabb11898a71a_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/9a8b6d62898bbd5d_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/9cd9be67f3a8cda0_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/a1c87e9967455d6a_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/a23100d8a4af15b2_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/a2eaf0ba98851726_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/b51dfb5df128d44e_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/bae014200f941682_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/be6768e3f7719317_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/c514f7a1de2ffc07_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/cce0fe61c1f25a15_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/cfa74ab8ac7eda80_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/d5c3b4baeea5321a_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/d653faf72a5064c1_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/d7cee9434fccb521_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/d8e223283cd0c0e8_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/d959ffc120444bd5_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/daa08dc461e9ee08_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/db19c862a0664a2a_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/ddc878705424ddbb_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/f062c506c4dc9a6d_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/f3b89aba864f77e4_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/f49b3fea4b2a8832_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/f7c6ac292467d173_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/fc52697cff125bba_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/fd63dee31de32f75_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/fd915ae85939b31a_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/ff4b8ad0a71ed19f_0
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/index
+#	new file:   airootfs/etc/skel/.config/obsidian/Cache/Cache_Data/index-dir/the-real-index
+#	new file:   airootfs/etc/skel/.config/obsidian/Code Cache/js/index
+#	new file:   airootfs/etc/skel/.config/obsidian/Code Cache/js/index-dir/the-real-index
+#	new file:   airootfs/etc/skel/.config/obsidian/Code Cache/wasm/index
+#	new file:   airootfs/etc/skel/.config/obsidian/Code Cache/wasm/index-dir/the-real-index
+#	new file:   airootfs/etc/skel/.config/obsidian/Cookies
+#	new file:   airootfs/etc/skel/.config/obsidian/Cookies-journal
+#	new file:   airootfs/etc/skel/.config/obsidian/Crashpad/client_id
+#	new file:   airootfs/etc/skel/.config/obsidian/DawnCache/data_0
+#	new file:   airootfs/etc/skel/.config/obsidian/DawnCache/data_1
+#	new file:   airootfs/etc/skel/.config/obsidian/DawnCache/data_2
+#	new file:   airootfs/etc/skel/.config/obsidian/DawnCache/data_3
+#	new file:   airootfs/etc/skel/.config/obsidian/DawnCache/index
+#	new file:   airootfs/etc/skel/.config/obsidian/Dictionaries/en-US-10-1.bdic
+#	new file:   airootfs/etc/skel/.config/obsidian/GPUCache/data_0
+#	new file:   airootfs/etc/skel/.config/obsidian/GPUCache/data_1
+#	new file:   airootfs/etc/skel/.config/obsidian/GPUCache/data_2
+#	new file:   airootfs/etc/skel/.config/obsidian/GPUCache/data_3
+#	new file:   airootfs/etc/skel/.config/obsidian/GPUCache/index
+#	new file:   airootfs/etc/skel/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000003.log
+#	new file:   airootfs/etc/skel/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/CURRENT
+#	new file:   airootfs/etc/skel/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/LOCK
+#	new file:   airootfs/etc/skel/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/LOG
+#	new file:   airootfs/etc/skel/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/LOG.old
+#	new file:   airootfs/etc/skel/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+#	new file:   airootfs/etc/skel/.config/obsidian/Local Storage/leveldb/000003.log
+#	new file:   airootfs/etc/skel/.config/obsidian/Local Storage/leveldb/CURRENT
+#	new file:   airootfs/etc/skel/.config/obsidian/Local Storage/leveldb/LOCK
+#	new file:   airootfs/etc/skel/.config/obsidian/Local Storage/leveldb/LOG
+#	new file:   airootfs/etc/skel/.config/obsidian/Local Storage/leveldb/LOG.old
+#	new file:   airootfs/etc/skel/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
+#	new file:   airootfs/etc/skel/.config/obsidian/Network Persistent State
+#	new file:   airootfs/etc/skel/.config/obsidian/Preferences
+#	new file:   airootfs/etc/skel/.config/obsidian/Session Storage/000003.log
+#	new file:   airootfs/etc/skel/.config/obsidian/Session Storage/CURRENT
+#	new file:   airootfs/etc/skel/.config/obsidian/Session Storage/LOCK
+#	new file:   airootfs/etc/skel/.config/obsidian/Session Storage/LOG
+#	new file:   airootfs/etc/skel/.config/obsidian/Session Storage/LOG.old
+#	new file:   airootfs/etc/skel/.config/obsidian/Session Storage/MANIFEST-000001
+#	new file:   airootfs/etc/skel/.config/obsidian/TransportSecurity
+#	new file:   airootfs/etc/skel/.config/obsidian/WebStorage/QuotaManager
+#	new file:   airootfs/etc/skel/.config/obsidian/WebStorage/QuotaManager-journal
+#	new file:   airootfs/etc/skel/.config/obsidian/databases/Databases.db
+#	new file:   airootfs/etc/skel/.config/obsidian/databases/Databases.db-journal
+#	new file:   airootfs/etc/skel/.config/obsidian/id
+#	new file:   airootfs/etc/skel/.config/obsidian/obsidian.json
+#	new file:   airootfs/etc/skel/.config/obsidian/obsidian.log
+#	new file:   airootfs/etc/skel/.config/pulse/4a92099259c14d2d80be2911d8508a2f-card-database.tdb
+#	new file:   airootfs/etc/skel/.config/pulse/4a92099259c14d2d80be2911d8508a2f-default-sink
+#	new file:   airootfs/etc/skel/.config/pulse/4a92099259c14d2d80be2911d8508a2f-default-source
+#	new file:   airootfs/etc/skel/.config/pulse/4a92099259c14d2d80be2911d8508a2f-device-volumes.tdb
+#	new file:   airootfs/etc/skel/.config/pulse/4a92099259c14d2d80be2911d8508a2f-stream-volumes.tdb
+#	new file:   airootfs/etc/skel/.config/qutebrowser/autoconfig.yml
+#	new file:   airootfs/etc/skel/.config/qutebrowser/bookmarks/urls
+#	new file:   airootfs/etc/skel/.config/qutebrowser/catppuccin
+#	new file:   airootfs/etc/skel/.config/qutebrowser/config.py
+#	new file:   airootfs/etc/skel/.config/qutebrowser/qsettings/QtProject.conf
+#	new file:   airootfs/etc/skel/.config/qutebrowser/quickmarks
+#	new file:   airootfs/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml
+#	new file:   airootfs/etc/systemd/system/dbus-org.fedoraproject.FirewallD1.service
+#	new file:   airootfs/etc/systemd/system/multi-user.target.wants/firewalld.service
+#	new file:   airootfs/home/liveuser/.config/Thunar/uca.xml
+#	modified:   airootfs/home/liveuser/.config/dconf/user
+#	modified:   airootfs/home/liveuser/.config/i3/config
+#	new file:   airootfs/home/liveuser/.config/inkscape/cphistory.xml
+#	new file:   airootfs/home/liveuser/.config/inkscape/dialogs-state-ex.ini
+#	new file:   airootfs/home/liveuser/.config/inkscape/extension-errors.log
+#	new file:   airootfs/home/liveuser/.config/inkscape/fontcollections/recently_used_fonts.log
+#	new file:   airootfs/home/liveuser/.config/inkscape/pages.csv
+#	new file:   airootfs/home/liveuser/.config/inkscape/preferences.xml
+#	new file:   airootfs/home/liveuser/.config/keepassxc/keepassxc.ini
+#	new file:   airootfs/home/liveuser/.config/mimeapps.list
+#	new file:   airootfs/home/liveuser/.config/obsidian/22cb0842e2fd9823.json
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/08c7e71b74e10a43_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/0d19645b1df2fe73_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/0ee3c162388bed23_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/136324648e0083ce_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/1434f2ab7898e077_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/17adea316f510242_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/1ae0bb07f7db55bf_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/1b86af76a93b1902_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/1c9fc6edceafc664_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/1d4066b8276b4318_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/1e04b736fd7d2e0a_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/1f2e1166f3f60589_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/235293b10f645efc_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/235d66c14555cecf_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/2547ff6af7f86f60_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/2720f6f3a69d0845_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/27e1ba8b1686a43d_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/2a0d2f1f21f28d80_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/2a7addaae1160077_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/2b8def943af7e025_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/2d1a80b7bba5e12d_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/2fb2ee10c71822bc_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/3076cc8320f1e88a_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/331969e994ee0415_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/34fe7a0ca25bc716_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/3a6691e95f804110_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/3b39c72f86207050_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/3cf84ab1c89674cd_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/3fe1b4a9c3f12dfb_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/4fedffca2c335e00_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/506f8ac34d4019a0_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/5283edf90cf4ab50_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/535e9e3fa5364167_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/55a2bb58de324cb0_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/56bdcd269daaf47c_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/571c0c432619023d_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/57e197da6af7b050_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/59c61e7734419b36_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/5b9cfd1ebd6380b9_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/62a4cdb9b4a6408f_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/6f5857a9cc8282e5_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/7425cc9628c5d524_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/74dae2adc7da39f9_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/75632a4549dd28b2_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/79f313eaa9635851_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/7c9d3ee537fa9940_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/81e27f6432ea551b_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/848d0df9e68d6987_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/85cf02a7341577f9_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/9050003ebd6f4c7c_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/9536a4708a20f9d3_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/969eabb11898a71a_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/9a8b6d62898bbd5d_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/9cd9be67f3a8cda0_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/a1c87e9967455d6a_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/a23100d8a4af15b2_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/a2eaf0ba98851726_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/b51dfb5df128d44e_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/bae014200f941682_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/be6768e3f7719317_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/c514f7a1de2ffc07_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/cce0fe61c1f25a15_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/cfa74ab8ac7eda80_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/d5c3b4baeea5321a_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/d653faf72a5064c1_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/d7cee9434fccb521_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/d8e223283cd0c0e8_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/d959ffc120444bd5_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/daa08dc461e9ee08_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/db19c862a0664a2a_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/ddc878705424ddbb_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/f062c506c4dc9a6d_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/f3b89aba864f77e4_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/f49b3fea4b2a8832_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/f7c6ac292467d173_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/fc52697cff125bba_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/fd63dee31de32f75_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/fd915ae85939b31a_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/ff4b8ad0a71ed19f_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/index
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cache/Cache_Data/index-dir/the-real-index
+#	new file:   airootfs/home/liveuser/.config/obsidian/Code Cache/js/index
+#	new file:   airootfs/home/liveuser/.config/obsidian/Code Cache/js/index-dir/the-real-index
+#	new file:   airootfs/home/liveuser/.config/obsidian/Code Cache/wasm/index
+#	new file:   airootfs/home/liveuser/.config/obsidian/Code Cache/wasm/index-dir/the-real-index
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cookies
+#	new file:   airootfs/home/liveuser/.config/obsidian/Cookies-journal
+#	new file:   airootfs/home/liveuser/.config/obsidian/Crashpad/client_id
+#	new file:   airootfs/home/liveuser/.config/obsidian/DawnCache/data_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/DawnCache/data_1
+#	new file:   airootfs/home/liveuser/.config/obsidian/DawnCache/data_2
+#	new file:   airootfs/home/liveuser/.config/obsidian/DawnCache/data_3
+#	new file:   airootfs/home/liveuser/.config/obsidian/DawnCache/index
+#	new file:   airootfs/home/liveuser/.config/obsidian/Dictionaries/en-US-10-1.bdic
+#	new file:   airootfs/home/liveuser/.config/obsidian/GPUCache/data_0
+#	new file:   airootfs/home/liveuser/.config/obsidian/GPUCache/data_1
+#	new file:   airootfs/home/liveuser/.config/obsidian/GPUCache/data_2
+#	new file:   airootfs/home/liveuser/.config/obsidian/GPUCache/data_3
+#	new file:   airootfs/home/liveuser/.config/obsidian/GPUCache/index
+#	new file:   airootfs/home/liveuser/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000003.log
+#	new file:   airootfs/home/liveuser/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/CURRENT
+#	new file:   airootfs/home/liveuser/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/LOCK
+#	new file:   airootfs/home/liveuser/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/LOG
+#	new file:   airootfs/home/liveuser/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/LOG.old
+#	new file:   airootfs/home/liveuser/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+#	new file:   airootfs/home/liveuser/.config/obsidian/Local Storage/leveldb/000003.log
+#	new file:   airootfs/home/liveuser/.config/obsidian/Local Storage/leveldb/CURRENT
+#	new file:   airootfs/home/liveuser/.config/obsidian/Local Storage/leveldb/LOCK
+#	new file:   airootfs/home/liveuser/.config/obsidian/Local Storage/leveldb/LOG
+#	new file:   airootfs/home/liveuser/.config/obsidian/Local Storage/leveldb/LOG.old
+#	new file:   airootfs/home/liveuser/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
+#	new file:   airootfs/home/liveuser/.config/obsidian/Network Persistent State
+#	new file:   airootfs/home/liveuser/.config/obsidian/Preferences
+#	new file:   airootfs/home/liveuser/.config/obsidian/Session Storage/000003.log
+#	new file:   airootfs/home/liveuser/.config/obsidian/Session Storage/CURRENT
+#	new file:   airootfs/home/liveuser/.config/obsidian/Session Storage/LOCK
+#	new file:   airootfs/home/liveuser/.config/obsidian/Session Storage/LOG
+#	new file:   airootfs/home/liveuser/.config/obsidian/Session Storage/LOG.old
+#	new file:   airootfs/home/liveuser/.config/obsidian/Session Storage/MANIFEST-000001
+#	new file:   airootfs/home/liveuser/.config/obsidian/TransportSecurity
+#	new file:   airootfs/home/liveuser/.config/obsidian/WebStorage/QuotaManager
+#	new file:   airootfs/home/liveuser/.config/obsidian/WebStorage/QuotaManager-journal
+#	new file:   airootfs/home/liveuser/.config/obsidian/databases/Databases.db
+#	new file:   airootfs/home/liveuser/.config/obsidian/databases/Databases.db-journal
+#	new file:   airootfs/home/liveuser/.config/obsidian/id
+#	new file:   airootfs/home/liveuser/.config/obsidian/obsidian.json
+#	new file:   airootfs/home/liveuser/.config/obsidian/obsidian.log
+#	new file:   airootfs/home/liveuser/.config/pulse/4a92099259c14d2d80be2911d8508a2f-card-database.tdb
+#	new file:   airootfs/home/liveuser/.config/pulse/4a92099259c14d2d80be2911d8508a2f-default-sink
+#	new file:   airootfs/home/liveuser/.config/pulse/4a92099259c14d2d80be2911d8508a2f-default-source
+#	new file:   airootfs/home/liveuser/.config/pulse/4a92099259c14d2d80be2911d8508a2f-device-volumes.tdb
+#	new file:   airootfs/home/liveuser/.config/pulse/4a92099259c14d2d80be2911d8508a2f-stream-volumes.tdb
+#	new file:   airootfs/home/liveuser/.config/qutebrowser/autoconfig.yml
+#	new file:   airootfs/home/liveuser/.config/qutebrowser/bookmarks/urls
+#	new file:   airootfs/home/liveuser/.config/qutebrowser/catppuccin
+#	new file:   airootfs/home/liveuser/.config/qutebrowser/config.py
+#	new file:   airootfs/home/liveuser/.config/qutebrowser/qsettings/QtProject.conf
+#	new file:   airootfs/home/liveuser/.config/qutebrowser/quickmarks
+#	modified:   airootfs/home/liveuser/.config/wallpapers/archmage.png
+#	new file:   airootfs/home/liveuser/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml
+#	deleted:    airootfs/usr/share/xsessions/x3.desktop
+#	modified:   packages.x86_64
+#
+# Changes not staged for commit:
+#	modified:   airootfs/etc/skel/.config/qutebrowser/catppuccin (untracked content)
+#	modified:   airootfs/home/liveuser/.config/qutebrowser/catppuccin (untracked content)
+#
