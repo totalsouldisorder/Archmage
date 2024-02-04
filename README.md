@@ -49,7 +49,6 @@ I've achieved quite a bit in about a week. What I want to do next is:
 - [x] de-bloat and remove unnecessary packages
 - [ ] fix firewalld.service not autostarting until ```systemctl enable firewalld``` is run
 - [ ] change the default shell upon installation to zsh (currently bash)
-- [x] consider a different panel, as well as shipping SwayFX instead of i3 (for wayland reasons)
 
 # Building or installing
 If you just wanna try Archmage out, head over to [Releases](https://github.com/averyfunnygirl/Archmage/releases) and burn the .iso to a flash drive. Boot it up and follow Calamares' instructions to install, or just mess around in the live environment. 
